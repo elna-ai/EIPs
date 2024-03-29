@@ -2,16 +2,27 @@
 
 For full documentation visit [ELNA.Ai](https://www.elna.ai/).
 
-# Elna core Proposals
+# Core Proposals
 
-| EIP                   | Description       |
-| --------------------- | ----------------- |
-| [EIP-1](/EIPs/EIP-0/) | ELNA EIP Workflow |
-| [EIP-2](/EIPs/EIP-1/) | Initial proposal  |
+| EIP                   | Title                     | Description                                                              |
+| --------------------- | ------------------------- | ------------------------------------------------------------------------ |
+| [EIP-1](/EIPs/EIP-0/) | Core rules                | Workflow and process                                                     |
+| [EIP-3](/EIPs/EIP-3/) | Deregister Dapp Canisters | De-registration of DApp Frontend Asset Canister for Improved Development |
 
-# Elna Motion Proposals
+# Motion Proposals
 
-| EIP                       | Description                  |
-| ------------------------- | ---------------------------- |
-| [EIP-100](/EIPs/EIP-100/) | very first motion proposal   |
-| [EIP-201](/EIPs/EIP-101/) | Proposal for canister update |
+| EIP                   | Title                              | Description                                             |
+| --------------------- | ---------------------------------- | ------------------------------------------------------- |
+| [EIP-1](/EIPs/EIP-1/) | Neuron for Community Consideration | Introducing ELNA DEV Neuron for Community Consideration |
+
+# Transfer Proposals
+
+| EIP                   | Title                       | Description                                        |
+| --------------------- | --------------------------- | -------------------------------------------------- |
+| [EIP-2](/EIPs/EIP-2/) | Transfer SNS treasury funds | Testing transfer of 1 ICP for ICP/ELNA LP creation |
+
+# Rejected Proposals
+
+| EIP | Title | Description |
+| --- | ----- | ----------- |
+| -   | -     | -           |

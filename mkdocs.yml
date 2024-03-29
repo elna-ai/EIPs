@@ -7,7 +7,10 @@ edit_uri: "https://github.com/elna-ai/EIPs"
 
 nav:
   - Home: index.md
+  - EIP-0: EIP-0.md
   - EIP-1: EIP-1.md
+  - EIP-2: EIP-2.md
+  - EIP-3: EIP-3.md
 
 theme:
   name: material
