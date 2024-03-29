@@ -1,4 +1,4 @@
-site_name: EIPs
+site_name: Elna Improvement Proposals
 site_description: Elna Improvement Proposals
 site_url: https://elna-ai.github.com/EIPs
 repo_name: https://github.com/elna-ai/EIPs
@@ -6,8 +6,8 @@ repo_url: https://github.com/elna-ai/EIPs
 edit_uri: "https://github.com/elna-ai/EIPs"
 
 nav:
-  - Getting Started: index.md
-  - Proposals: proposals.md
+  - Home: index.md
+  - EIP-1: EIP-1.md
 
 theme:
   name: material
