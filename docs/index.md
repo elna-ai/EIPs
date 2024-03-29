@@ -6,7 +6,7 @@ For full documentation visit [ELNA.Ai](https://www.elna.ai/).
 
 | EIP                   | Title                     | Description                                                              |
 | --------------------- | ------------------------- | ------------------------------------------------------------------------ |
-| [EIP-1](/EIPs/EIP-0/) | Core rules                | Workflow and process                                                     |
+| [EIP-0](/EIPs/EIP-0/) | Core rules                | Workflow and process                                                     |
 | [EIP-3](/EIPs/EIP-3/) | Deregister Dapp Canisters | De-registration of DApp Frontend Asset Canister for Improved Development |
 
 # Motion Proposals
