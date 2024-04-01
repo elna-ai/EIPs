@@ -1,1 +1,2 @@
-# EIP-0: First Elna Improvement Proposals
+# EIP-0: Developer Guidelines 
+
